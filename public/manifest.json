@@ -1,0 +1,8 @@
+{
+  "short_name": "Streamlabs OBS React App",
+  "name": "A basic skeleton for a SLOBs source",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

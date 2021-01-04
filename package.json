@@ -1,0 +1,29 @@
+{
+  "name": "myrr-api",
+  "version": "1.0.0",
+  "description": "The core Myrr API",
+  "main": "dist/index.js",
+  "module": "src/index.ts",
+  "author": "Spyce",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "js-cookie": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/styled-components": "^5.1.7"
+  }
+}
